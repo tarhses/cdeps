@@ -1,0 +1,8 @@
+__pycache__
+
+# coverage.py
+.coverage
+htmlcov
+
+# IDE specifics
+.vscode

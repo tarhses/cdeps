@@ -1,0 +1,6 @@
+#ifndef CONSTANTS_H_INCLUDED
+#define CONSTANTS_H_INCLUDED
+
+const int MAGIC_NUMBER = 3;
+
+#endif
